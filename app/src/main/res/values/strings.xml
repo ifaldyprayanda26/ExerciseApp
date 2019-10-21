@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">My Menu on Diet</string>
+    <string name="profile">My Profile</string>
+    <string name="detail">Detail Menu</string>
+    <string name="teks">DIGITAL TALENTS SCHOLARSHIP 2019</string>
+    <string name="teks2">ONLINE ACADEMY</string>
+    <string name="teks3">Sponsored By : DICODING ACADEMY</string>
+    <string name="menu">Nama Menu</string>
+    <string name="title">Title Menu</string>
+    <string name="load">Loading.......</string>
+</resources>
